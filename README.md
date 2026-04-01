@@ -1,5 +1,12 @@
-# Fluid-Simulation-Pendant
+# Fluid Simulation Pendant
 A Fluid Simulation Pendant Inspired by Mitxela
+
+<table>
+  <tr>
+    <td><img width="450" src="https://github.com/user-attachments/assets/598a5c32-b5dc-4eb3-b1c5-bf14716bdb4d" /></td>
+    <td><img width="450" src="https://github.com/user-attachments/assets/edd5f802-e6a7-49f5-95e4-b559aa7bd182" /></td>
+  </tr>
+</table>
 
 ## Overview
 Since January, I've been particularly inspired by Mitxela's Fluid Simulation Pendant.
