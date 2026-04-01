@@ -54,7 +54,9 @@ OBTAIN PCB
 <img width="1684" height="674" alt="Screenshot 2026-03-31 233642" src="https://github.com/user-attachments/assets/e201175d-a503-4396-959d-5dd9e4f1531d" />
 5) Purchase and await arrival.
 
-While waiting, you can 3D print the case.
+While waiting, you can 3D print the case included in the CAD folder.
+Download both "Case.3mf" and "Back Lid.3mf"
+Alternatively, you can access the CAD on [Onshape](https://cad.onshape.com/documents/ce3587694f856aec528b28ab/w/4bfd7fa16d33233767ff6bdf/e/73e8d055661068f7b677968e?renderMode=0&uiState=69cc9a998e56fd57fc1aa12d)
 
 ASSEMBLY 
 1) Solder PH1 pins on the back of the PCB at drilled holes labeled BOOT0, NRST, DEBUG_TMS, GND, DEBUG_TCK, 3.3V
