@@ -1,4 +1,4 @@
-Item,Qty,,URL,Reference,Mfg Part #
+Item,Qty,Cost,URL,Reference,Mfg Part #
 PCB,5,$14.90,https://jlcpcb.com/,-,-
 4.7uF-0402,20,$0.11,https://www.lcsc.com/product-detail/C23733.html,"C1,C8",CL05A475MP5NRNC
 100nF-0402,40,$0.05,https://www.lcsc.com/product-detail/C1525.html?s_z=n_CL05B104KO5NNNC&spm=wm.ssy.bg.0.xh&lcsc_vid=EwBZBVRfFVVaVFdSR1hcUFBTQFUMUl1eEVFaVldeEQIxVlNRQlFeUVBfQFJcVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVJZVFdIHxUDCw%3D%3D,"C2,C3,C4,C5,C6,C7",CL05B104KO5NNNC
